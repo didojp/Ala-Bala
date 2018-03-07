@@ -1,0 +1,7 @@
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\bin\Debug\p1Exer.exe.config
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\bin\Debug\p1Exer.exe
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\bin\Debug\p1Exer.pdb
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\obj\Debug\p1Exer.csprojResolveAssemblyReference.cache
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\obj\Debug\p1Exer.csproj.CoreCompileInputs.cache
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\obj\Debug\p1Exer.exe
+c:\users\dpetkov\source\repos\Dictionaries2\p1Exer\obj\Debug\p1Exer.pdb
