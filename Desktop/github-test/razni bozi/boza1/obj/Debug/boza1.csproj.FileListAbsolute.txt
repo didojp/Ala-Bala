@@ -1,0 +1,7 @@
+c:\users\dpetkov\source\repos\razni bozi\boza1\bin\Debug\boza1.exe.config
+c:\users\dpetkov\source\repos\razni bozi\boza1\bin\Debug\boza1.exe
+c:\users\dpetkov\source\repos\razni bozi\boza1\bin\Debug\boza1.pdb
+c:\users\dpetkov\source\repos\razni bozi\boza1\obj\Debug\boza1.csprojResolveAssemblyReference.cache
+c:\users\dpetkov\source\repos\razni bozi\boza1\obj\Debug\boza1.csproj.CoreCompileInputs.cache
+c:\users\dpetkov\source\repos\razni bozi\boza1\obj\Debug\boza1.exe
+c:\users\dpetkov\source\repos\razni bozi\boza1\obj\Debug\boza1.pdb

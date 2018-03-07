@@ -1,0 +1,7 @@
+C:\Users\dpetkov\source\repos\razni bozi\threats\bin\Debug\threats.exe.config
+C:\Users\dpetkov\source\repos\razni bozi\threats\bin\Debug\threats.exe
+C:\Users\dpetkov\source\repos\razni bozi\threats\bin\Debug\threats.pdb
+C:\Users\dpetkov\source\repos\razni bozi\threats\obj\Debug\threats.csprojResolveAssemblyReference.cache
+C:\Users\dpetkov\source\repos\razni bozi\threats\obj\Debug\threats.csproj.CoreCompileInputs.cache
+C:\Users\dpetkov\source\repos\razni bozi\threats\obj\Debug\threats.exe
+C:\Users\dpetkov\source\repos\razni bozi\threats\obj\Debug\threats.pdb

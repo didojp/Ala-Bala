@@ -1,0 +1,7 @@
+C:\Users\dpetkov\source\repos\razni bozi\test\bin\Debug\test.exe.config
+C:\Users\dpetkov\source\repos\razni bozi\test\bin\Debug\test.exe
+C:\Users\dpetkov\source\repos\razni bozi\test\bin\Debug\test.pdb
+C:\Users\dpetkov\source\repos\razni bozi\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\dpetkov\source\repos\razni bozi\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\dpetkov\source\repos\razni bozi\test\obj\Debug\test.exe
+C:\Users\dpetkov\source\repos\razni bozi\test\obj\Debug\test.pdb

@@ -1,0 +1,7 @@
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\bin\Debug\ot lekstara.exe.config
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\bin\Debug\ot lekstara.exe
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\bin\Debug\ot lekstara.pdb
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\obj\Debug\ot lekstara.csprojResolveAssemblyReference.cache
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\obj\Debug\ot lekstara.csproj.CoreCompileInputs.cache
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\obj\Debug\ot lekstara.exe
+C:\Users\dpetkov\source\repos\razni bozi\ot lekstara\obj\Debug\ot lekstara.pdb

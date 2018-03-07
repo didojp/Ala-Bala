@@ -1,0 +1,7 @@
+C:\Users\dpetkov\source\repos\razni bozi\moneti\bin\Debug\moneti.exe.config
+C:\Users\dpetkov\source\repos\razni bozi\moneti\bin\Debug\moneti.exe
+C:\Users\dpetkov\source\repos\razni bozi\moneti\bin\Debug\moneti.pdb
+C:\Users\dpetkov\source\repos\razni bozi\moneti\obj\Debug\moneti.csprojResolveAssemblyReference.cache
+C:\Users\dpetkov\source\repos\razni bozi\moneti\obj\Debug\moneti.csproj.CoreCompileInputs.cache
+C:\Users\dpetkov\source\repos\razni bozi\moneti\obj\Debug\moneti.exe
+C:\Users\dpetkov\source\repos\razni bozi\moneti\obj\Debug\moneti.pdb

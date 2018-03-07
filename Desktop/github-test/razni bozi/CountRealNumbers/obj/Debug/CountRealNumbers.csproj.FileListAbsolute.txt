@@ -1,0 +1,7 @@
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\obj\Debug\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\obj\Debug\CountRealNumbers.pdb
+C:\Users\dpetkov\source\repos\razni bozi\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
